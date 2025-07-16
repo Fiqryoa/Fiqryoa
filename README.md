@@ -13,7 +13,7 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 <a href="https://www.linkedin.com/in/zaki-ramadhan/">
   <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=zakiram4dhan@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiqryomaratala@gmail.com">
   <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/zqramadhan_">
