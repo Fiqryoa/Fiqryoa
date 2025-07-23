@@ -2,7 +2,7 @@
 
 **`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
 
-<a href="#"><img align="left" width="155px" alt="pfp" src="https://i.postimg.cc/Ghv3tGkX/image-1.png" /></a>
+<a href="#"><img align="left" width="155px" alt="pfp" src="https://imagizer.imageshack.com/img922/6886/adRelw.jpg" /></a>
 
 I’m a passionate Web Developer and UI/UX Designer with a love for building intuitive and visually compelling digital experiences. I thrive on transforming ideas into real products, focusing on both clean code and delightful user journeys.
 
