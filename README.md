@@ -25,7 +25,7 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind"/>
   </a>
 </p>
 
