@@ -2,7 +2,7 @@
 
 **`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
 
-<a href="#"><img align="left" width="155px" alt="pfp" src="https://imagizer.imageshack.com/img922/6886/adRelw.jpg" /></a>
+<a href="#"><img align="left" width="155px" alt="pfp" src="https://imagizer.imageshack.com/v2/xq70/922/adRelw.jpg" /></a>
 
 I’m a passionate Web Developer and UI/UX Designer with a love for building intuitive and visually compelling digital experiences. I thrive on transforming ideas into real products, focusing on both clean code and delightful user journeys.
 
@@ -10,13 +10,13 @@ With a keen eye for detail and a creative problem-solving approach, I enjoy buil
 
 Excited to collaborate and bring innovative ideas to life—let’s build something amazing together! 🚀
 
-<a href="https://www.linkedin.com/in/zaki-ramadhan/">
+<a href="https://www.linkedin.com/in/fiqryomaratala/">
   <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>  
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiqryomaratala@gmail.com">
   <img alt="Gmail" title="Send me an email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/zqramadhan_">
+<a href="https://www.instagram.com/fiqryoa">
   <img alt="Instagram" title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -25,7 +25,7 @@ Excited to collaborate and bring innovative ideas to life—let’s build someth
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
   </a>
 </p>
 
