@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&duration=2000&pause=200&color=F7F51D&multiline=true&width=500&height=120&lines=Still+Learning;Currently+learning+Python)](#)
 
-**`</> Web Developer | UI/UX Designer | Tech Enthusiast`** 
+**`</> Web Developer | UI Designer | Tech Enthusiast`** 
 
 <a href="#"><img align="left" width="155px" alt="pfp" src="https://imagizer.imageshack.com/v2/xq70/922/gEdRMC.png" /></a>
 
-I’m a passionate Web Developer and UI Designer with a love for building intuitive and visually compelling digital experiences. I thrive on transforming ideas into real products, focusing on both clean code and delightful user journeys.
+I'm a dedicated Web Developer and UI Designer who enjoys crafting engaging and user-friendly digital experiences. Turning concepts into functional and elegant products is where I thrive—balancing aesthetic appeal with clean, maintainable code.
 
-With a keen eye for detail and a creative problem-solving approach, I enjoy building seamless interactions that connect design and technology. I’m always learning, exploring new tools, and pushing myself to create better solutions every day.
+Driven by curiosity and a strong attention to detail, I aim to bridge the gap between design and development. I continuously seek out new technologies and techniques to improve my skills and deliver smarter, more impactful solutions.
 
 Excited to collaborate and bring innovative ideas to life—let’s build something amazing together! 🚀
 
